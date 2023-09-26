@@ -1,5 +1,7 @@
 # Kirill Guzarevich
-![ava](https://avatars.steamstatic.com/fa3e84608c8d80601dbfe37ad754656dfc0781fa_full.jpg)
+
+![ava](https://catherineasquithgallery.com/uploads/posts/2021-03/1614592863_62-p-tachki-makvin-na-belom-fone-69.png)
+
 # *Junior Frontend Developer*
 # My contacts
 * Email: guzarevichkirill@gmail.com
