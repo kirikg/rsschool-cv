@@ -1,19 +1,5 @@
 # Kirill Guzarevich
-
-
-
-
-![ava](https://catherineasquithgallery.com/uploads/posts/2021-03/1614592863_62-p-tachki-makvin-na-belom-fone-69.png)
-
-
-
-
-
-
-
-
-
-
+![ava](https://github.com/kirikg/rsschool-cv/blob/rsschool-cv-html/mcqueen.jpeg?raw=true)
 # *Junior Frontend Developer*
 # My contacts
 * Email: guzarevichkirill@gmail.com
