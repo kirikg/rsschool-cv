@@ -1,5 +1,5 @@
 # Kirill Guzarevich
-!(C:\Users\User\Desktop)
+<image src="C:\Users\User\Desktop">
 # *Junior Frontend Developer*
 # My contacts
 * Email: guzarevichkirill@gmail.com
