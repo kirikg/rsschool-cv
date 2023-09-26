@@ -1,6 +1,18 @@
 # Kirill Guzarevich
 
+
+
+
 ![ava](https://catherineasquithgallery.com/uploads/posts/2021-03/1614592863_62-p-tachki-makvin-na-belom-fone-69.png)
+
+
+
+
+
+
+
+
+
 
 # *Junior Frontend Developer*
 # My contacts
